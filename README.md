@@ -2,6 +2,19 @@
 
 A Model Context Protocol (MCP) server for coordinating multiple AI agents working on the same codebase or project. Prevents conflicts and enables collaboration through action logging, resource locking, and state synchronization.
 
+## 🚀 Live Deployment
+
+- **URL**: https://ai-agent-mcp-qgtt-alis-projects-4856f194.vercel.app
+- **MCP Endpoint**: https://ai-agent-mcp-qgtt-alis-projects-4856f194.vercel.app/api/mcp
+- **Health Check**: https://ai-agent-mcp-qgtt-alis-projects-4856f194.vercel.app/health
+- **GitHub**: https://github.com/aliomraniH/AI-agent-MCP
+
+## 📚 Documentation
+
+- **[TESTING.md](./TESTING.md)** - Test the deployment with curl commands and automated scripts
+- **[CLAUDE_CONFIG.md](./CLAUDE_CONFIG.md)** - Configure Claude Code to use this MCP server
+- **[DEPLOYMENT.md](./DEPLOYMENT.md)** - Full deployment instructions
+
 ## Features
 
 ### 🎯 Action Logging
